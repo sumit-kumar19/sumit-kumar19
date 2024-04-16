@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumit-kumar19
+- 👋 Hi, I’m Sumit kumar
 - 👀 I’m interested in learing technology
 - 🌱 I’m currently learning DSA
 
