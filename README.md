@@ -7,7 +7,7 @@
 class AboutMe {
     constructor() {
         this.name = "Sumit Kumar";
-        this.role = ['forntend developer'];
+        this.mail="Sumitmkumar02@gmail.com";
         this.age = 19;
         this.location = "[Delhi, India]";
         this.languages = ['C++','JavaScript'];
