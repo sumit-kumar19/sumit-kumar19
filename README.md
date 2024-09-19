@@ -45,12 +45,8 @@ const me = new AboutMe();
 <br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sumit%20kumar&theme=dark&hide_border=true&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D&card_width=520&card_height=200" alt="GitHub Streak" /></a> 
-
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=sumit-kumar19&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar19&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  
-
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kumar19&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
   <br/>
